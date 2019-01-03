@@ -1,5 +1,5 @@
 # GSLIB_MacOS
-Executables for GSLIB on Mac OS
+Executables for GSLIB on Mac OS X
 
 GSLIB, Geostatistical Library  (Deutsch and Journel, 1998) is a set of open source code in Fortran, including many of the fundamental geostatistical methods.  The code is very well tested and has been widely used.  The GeostatsPy functions run these executables to build geostatistical workflows in Python.  
 
